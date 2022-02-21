@@ -3,8 +3,8 @@
 1. Variable Selection
 2. Principle Component Analysis (PCA) & Factor Analysis (FA)
 3. Clustering
-4. Case-based Reasoning (CBR) & Association Rule (AR) & Collaborative Filtering (CF)
-  - chipotle.tsv
+4. Case-based Reasoning (CBR) & Association Rule (AR) & Collaborative Filtering (CF)  
+    - chipotle.tsv
 5. Social Network Analysis (SNA)
 6. Logistic Regression
 7. Decision Tree
