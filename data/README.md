@@ -11,7 +11,6 @@
 5. Social Network Analysis (SNA)
     - asoiaf-all-edges.csv
 6. Logistic Regression
-    - 
 7. Decision Tree
     - boston_housing.csv
     - titanic_data_clean.csv
