@@ -1,6 +1,6 @@
 - 실습에 사용하는 dataset은 다음과 같이 구성되어 있습니다.  
 
-1. Regression & Variable Selection & Ridge/Lasso
+1. Data Preprocessing
     - boston_housing.csv
     - cars.csv
 2. Principle Component Analysis (PCA) & Factor Analysis (FA)
