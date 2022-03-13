@@ -3,7 +3,7 @@
 
 - Data 폴더에는 실습 때 사용할 데이터셋 파일이 포함되어 있습니다.
 - 실습은 다음과 같은 순서로 진행됩니다.
-  1. [Regression, Variable selection, Ridge/Lasso, Chi-square test](https://github.com/jej0312/DM_TA/blob/512b8f64de0c345b53859c708ca81a34410f1c10/1_Regression_VariableSelection_RidgeLasso_Chisq.ipynb)
+  1. [Data Preprocessing](https://github.com/jej0312/DM_TA/blob/main/1_Data_preprocessing.ipynb)
   2. Principle component analysis, Factor analysis
   3. Clustering
   4. Case-based reasoning, Association rule
