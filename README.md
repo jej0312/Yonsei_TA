@@ -5,7 +5,7 @@
 - 실습은 다음과 같은 순서로 진행됩니다.
   1. [Data Preprocessing](https://github.com/jej0312/DM_TA/blob/main/1_Data_preprocessing.ipynb)
   2. [Principle component analysis, Factor analysis](https://github.com/jej0312/DM_TA/blob/main/2_PCA_FA.ipynb)
-  3. Clustering
+  3. [Clustering](https://github.com/jej0312/DM_TA/blob/main/3_Clustering.ipynb)
   4. Case-based reasoning, Association rule
   5. Social network analysis
   6. Logistic regression, Model assessment
