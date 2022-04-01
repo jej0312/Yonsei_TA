@@ -9,6 +9,7 @@
     - fa_data_bfi.csv
 4. Case-based Reasoning (CBR) & Association Rule (AR) & Collaborative Filtering (CF)  
     - chipotle.tsv
+    - ratings_small.csv
 5. Social Network Analysis (SNA)
     - asoiaf-all-edges.csv
 6. Logistic Regression
