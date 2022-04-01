@@ -12,3 +12,4 @@
   7. Decision tree
   8. Neural networks
   9. Ensemble (Bagging, Arching)
+- 실습 자료는 [21-1 DM 참고자료](https://github.com/HyunwooWoo/DataMining)를 기반으로 제작하였습니다.
