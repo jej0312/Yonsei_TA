@@ -7,7 +7,7 @@
   2. [Principle component analysis, Factor analysis](https://github.com/jej0312/DM_TA/blob/main/2_PCA_FA.ipynb)
   3. [Clustering](https://github.com/jej0312/DM_TA/blob/main/3_Clustering.ipynb)
   4. [Case-based reasoning, Association rule](https://github.com/jej0312/DM_TA/blob/main/4_CBR(knn)_AR.ipynb)
-  5. Social network analysis
+  5. [Social network analysis](https://github.com/jej0312/DM_TA/blob/main/5_SNA.ipynb)
   6. Logistic regression, Model assessment
   7. Decision tree
   8. Neural networks
