@@ -8,8 +8,8 @@
   3. [Clustering](https://github.com/jej0312/DM_TA/blob/main/3_Clustering.ipynb)
   4. [Case-based reasoning, Association rule](https://github.com/jej0312/DM_TA/blob/main/4_CBR(knn)_AR.ipynb)
   5. [Social network analysis](https://github.com/jej0312/DM_TA/blob/main/5_SNA.ipynb)
-  6. Logistic regression, Model assessment
-  7. Decision tree
-  8. Neural networks
+  6. [Logistic regression, Model assessment](https://github.com/jej0312/DM_TA/blob/main/6_LogisticRegression.ipynb)
+  7. [Decision tree](https://github.com/jej0312/DM_TA/blob/main/7_DecisionTree(CART).ipynb)
+  8. [Neural networks](https://github.com/jej0312/DM_TA/blob/main/8_ANN_SOM.ipynb)
   9. Ensemble (Bagging, Arching)
 - 실습 자료는 [21-1 DM 참고자료](https://github.com/HyunwooWoo/DataMining)를 기반으로 제작하였습니다.
